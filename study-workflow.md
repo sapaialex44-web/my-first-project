@@ -2,6 +2,39 @@
 
 | Task                                             | Status  |
 |-------------------------------------------------|---------|
+| Create GitHub repo & learning journal           | ✅      |
+| Install VirtualBox/VMware + Ubuntu + Kali      | ✅      |
+| Install Git, Python, VS Code                    | ✅      |
+| Bookmark TryHackMe, HackTheBox, OverTheWire    | ✅      |
+| Linux CLI basics (OverTheWire Bandit 0–10)     | ⚡      |
+| Networking fundamentals (OSI, TCP/UDP, HTTP)   | ⚡      |
+| Basic scripting: Python + Bash                  | ⏳      |
+| Version control: Git                             | ⚡      |
+| Web app security: OWASP Top 10                  | ⏳      |
+| Recon: nmap, netcat, tcpdump/Wireshark         | ⏳      |
+| Cryptography basics: hashing/encryption/TLS    | ⏳      |
+| Log analysis & detection basics                 | ⏳      |
+| Risk & frameworks (NIST overview)               | ⏳      |
+| TryHackMe beginner paths                        | ⏳      |
+| Hack The Box Starting Point machines            | ⏳      |
+| Build lab with DVWA/Juice Shop                  | ⏳      |
+| Tools: nmap, masscan, Burp Suite, sqlmap       | ⏳      |
+| Tools: Metasploit basics                        | ⏳      |
+| Tools: Wireshark, tcpdump                        | ⏳      |
+| Tools: Elastic Stack / Splunk basics           | ⏳      |
+| Tools: AWS fundamentals                         | ⏳      |
+| Specialization: PenTest / Blue Team / Cloud    | ⏳      |
+| CompTIA Security+ preparation                   | ⏳      |
+| OSCP / Offensive Security study                 | ⏳      |
+| Publish CTF writeups, lab reports, tools       | ⏳      |
+| Blog or README writeups for solved labs        | ⏳      |
+| Create one-page project showcase                | ⏳      |
+| 6-Month roadmap milestones                      | ⏳      |
+| Weekly CTF or tool writeups                     | ⏳      |
+# Cybersecurity Study Workflow
+
+| Task                                             | Status  |
+|-------------------------------------------------|---------|
 | Create GitHub repo & learning journal           | Done    |
 | Install VirtualBox/VMware + Ubuntu + Kali      | Done    |
 | Install Git, Python, VS Code                    | Done    |
